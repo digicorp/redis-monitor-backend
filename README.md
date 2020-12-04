@@ -70,12 +70,6 @@ Now before each commit, yout typescript files are linted based on your tsconfig.
 
 By the way you can also run the command with a npm script
 
-```bash
-npm run prettify
-```
 
-## Roadmap
 
-- [x] Add Sequelize Typescript example with association
-- [x] Manage multiple database configuration with NODE_ENV
-- [ ] Add Swagger API Framework
+
